@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <header><?php require_once "nav.php" ?></header>
-    <p>home</p>
+    <header><?php include "layout/nav.php" ?></header>
+    home
 </body>
 </html>

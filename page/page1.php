@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <header><?php require_once "nav.php" ?></header>
+    <header><?php require_once "layout/nav.php" ?></header>
     <p>page 1</p>
 </body>
 </html>
